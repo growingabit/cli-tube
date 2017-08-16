@@ -27,8 +27,8 @@ All replies will be JSON-encoded. Errors and generic messages will have the foll
 
 ```json
 {
-  message: "",
-  error: {},
+  "message": "",
+  "error": {},
 }
 ```
 
@@ -44,8 +44,8 @@ Will reply with the following schema:
 
 ```json
 {
-  err: {},
-  stdout: "",
-  stderr: ""
+  "err": {},
+  "stdout": "",
+  "stderr": ""
 }
 ```
